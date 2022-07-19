@@ -22,21 +22,9 @@ setting up a server.
 Browser support
 ------------------------------------------------------------------------
 
-Pokémon Showdown currently supports, in order of preference:
+This clone of Pokémon Showdown is tested in Opera GX.
 
- - Chrome
- - Firefox
- - Opera
- - Safari 5+
- - IE11+
- - Chrome/Firefox/Safari for various mobile devices
-
-Pokémon Showdown is usable, but expect degraded performance and certain features not to work in:
-
- - Safari 4+
- - IE9+
-
-Pokémon Showdown is mostly developed on Chrome, and Chrome or the desktop client is required for certain features like dragging-and-dropping teams from PS to your computer. However, bugs reported on any supported browser will usually be fixed pretty quickly.
+The desktop client is required for certain features like dragging-and-dropping teams from PS to your computer. However, bugs reported on any supported browser will usually be fixed pretty quickly.
 
 Testing
 ------------------------------------------------------------------------
