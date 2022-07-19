@@ -1,2 +1,2 @@
 # PetModCoding
-OPStellar's PS! repository for code work in Pet Mods
+OPStellar's PS! client repository for code work in Pet Mods
