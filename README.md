@@ -3,7 +3,7 @@ Pokémon Showdown Client
 
 Navigation: [Website][1] | [Server repository][2] | **Client repository** | [Dex repository][3]
 
-  [1]: http://pokemonshowdown.com/
+  [1]: https://pokemonshowdown.com/
   [2]: https://github.com/Zarel/Pokemon-Showdown
   [3]: https://github.com/Zarel/Pokemon-Showdown-Dex
 
@@ -120,6 +120,6 @@ The reason is mostly because I don't want low-effort proprietary forks that add 
 
 If you're doing _anything_ else other than forking, _especially_ if you want to some client code files in your own open-source project that you want to release under a more permissive license (like, if you want to make your own multiplayer open-source game client for a different game), please ask at `staff@pokemonshowdown.com`. I hold all the copyright to the AGPLv3 parts and can relicense them to MIT for you.
 
-  [6]: http://www.gnu.org/licenses/agpl-3.0.html
+  [6]: https://www.gnu.org/licenses/agpl-3.0.html
 
 **WARNING:** This is **NOT** the same license as Pokémon Showdown's server.
